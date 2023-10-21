@@ -1,0 +1,17 @@
+*{
+    margin:auto;
+    padding:auto;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+.w3-display-middle h2 {
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(68, 0, 0);
+    font-size: 24px;
+    border: 2px solid rgb(37, 1, 1);
+    padding: 14px 70px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
